@@ -8,4 +8,8 @@
 
 修改1
 
+<<<<<<< HEAD
 修改 3 master
+=======
+修改2 hot-fix
+>>>>>>> hot-fix
